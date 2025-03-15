@@ -1,6 +1,7 @@
 ## Olá Mundo Eu sou Henrique Lafayete 👋
 
 💻 Desenvolvedor Front-End
+
 📈 Estudante de Densenvolvimento Web
 <h2 align="left">Stats</h2>
 
