@@ -1,4 +1,6 @@
-## Hi there 👋
+## Olá Mundo Eu sou Henrique Lafayete 👋
+
+💻 Desenvolvedor Front-End
 
 <!--
 **HenriqueLafa/HenriqueLafa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
